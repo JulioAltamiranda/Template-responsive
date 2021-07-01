@@ -600,7 +600,7 @@ footer .footer-nav span {
         top: 300px;
     }
     .slide-text {
-        top: 287px;
+        top: 213px;
         width: 70%;
     }
     .services-content {
@@ -665,7 +665,7 @@ footer .footer-nav span {
         font-size: 26px;
     }
     header {
-        min-height: 700px;
+        height: 650px;
     }
     .top-nav .top-bar {
         width: initial;
@@ -846,18 +846,18 @@ footer .footer-nav span {
 }
 @media screen and (max-width: 350px) {
     .top-nav {
-        top: 10px;
+        top: 17px;
     }
     .left-icons {
-        left: 10px;
+        left: 17px;
     }
     .logo {
-        left: 10px;
+        left: 17px;
     }
     .btn-bar {
-        right: 10px;
+        right: 17px;
     }
     .bottom-nav {
-        padding: 0 10px;
+        padding: 0 17px;
     }
 }
